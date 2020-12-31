@@ -1,6 +1,6 @@
 ## back-fb
 ## Get the rep
-`git clone https://github.com/nilver/back-fb.git`
+Open a terminal and type `git clone https://github.com/nilver/back-fb.git`
 
 ## Go to folder
 Run `cd back-fb`
